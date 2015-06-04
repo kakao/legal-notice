@@ -1,0 +1,30 @@
+body {margin: 0;color: #888;font: 13px/1.25 sans-serif;-webkit-text-size-adjust: 100%;}
+h1 {font-size: 1.25em;}
+h1, h2, h3, h4 {color: #000;}
+#title {padding: 1.25em 1em 1em; margin: 0;background:#000;color:#fff; position: relative;}
+#notice,#oss,#licenses div {padding: 10px;}
+dt {font-size: 14px;font-weight: bold;color: #000;margin-top: 1em;}
+dd {margin-left: 20px;}
+pre, dd a {word-wrap: break-word;}
+#oss i {color: #333;}
+#oss,#licenses div {border-top: 1px solid #ccc;padding-top: 1em;}
+#licenses div { display: block; white-space: pre; word-wrap: break-word;}
+#licenses p {fmargin: .75em 0;}
+.license a {text-decoration: none; color:#999;}
+#createHtml {
+	position: absolute; top: 50%; transform: translateY(-50%);-webkit-transform: translateY(-50%);-ms-transform: translateY(-50%);
+	background-color:#44c767;
+	border-radius:2em;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#fff;
+	font-size:14px;
+	padding:.5em .75em;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+	margin-left: 1em;
+}
+#createHtml:hover {
+	background-color:#5cbf2a;
+}

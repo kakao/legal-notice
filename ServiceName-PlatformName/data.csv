@@ -1,0 +1,9 @@
+oss,component,url,copyright,license
+ActionBarSherlock,,http://github.com/JakeWharton/ActionBarSherlock/,2012 Jake Wharton,Apache License 2.0
+Android Open Source Project (AOSP),"- developers - samples - android
+- packages - apps - Camera
+- frameworks - volley
+- SDK Support Libraries
+- Support Library (v4)",https://android.googlesource.com,2007-2015 The Android Open Source Project,Apache License 2.0
+Apache HttpComponents,,http://hc.apache.org/,2005-2015 The Apache Software Foundation,Apache License 2.0
+JSON-java,,http://github.com/douglascrockford/JSON-java/,2015 Douglas Crockford,MIT License
