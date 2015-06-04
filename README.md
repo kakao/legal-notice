@@ -6,7 +6,7 @@ This is notification template for used list of open source libraries and compone
 
 1. Copy folder `/ServiceName-PlatformName/` and rename it. 
 2. Update `data.csv`.
-3. Check & share page `http://github.com/pages/daumkakao/legal-notice/ServiceName-PlatformName/`.
+3. Check & share page <http://daumkakao.github.io/legal-notice/ServiceName-PlatformName/>.
 4. Click button `Create.html` to make static page.
 5. Include static page to your service.
 
