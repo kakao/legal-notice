@@ -12,15 +12,15 @@ This is notification template for used list of open source libraries and compone
 
 ## Included Javascript libraries
 
-| Name | URL | License | Copyright |
-|---|---|---|---|
-| jQuery | <http://github.com/jquery/jquery> | MIT License | (c) 2005, 2014 jQuery Foundation, Inc. |
-| PapaParse | <http://github.com/mholt/PapaParse> | MIT License | (c) 2015 Matthew Holt |
-| mmd.js | <http://github.com/p01/mmd.js> | [No License](https://help.github.com/articles/open-source-licensing/#what-happens-if-i-dont-choose-a-license) | |
+| Name | License | Copyright |
+|---|---|---|
+| [jQuery](http://github.com/jquery/jquery) | [MIT License](http://opensource.org/licenses/MIT) | (c) 2005, 2014 jQuery Foundation, Inc. |
+| [PapaParse](http://github.com/mholt/PapaParse) | [MIT License](http://opensource.org/licenses/MIT) | (c) 2015 Matthew Holt |
+| [mmd.js](http://github.com/p01/mmd.js) | [No License](https://help.github.com/articles/open-source-licensing/#what-happens-if-i-dont-choose-a-license) | |
 
 ## SPDX license-list
 
-`license` folder include many license list from [SPDX license-lise](http://git.spdx.org/license-list.git). 
+`license` folder include many license list from [SPDX license-list](http://git.spdx.org/license-list.git). 
 This submodule cause github page build error. because they don't support `https` protocol.
 So this template has not using git submodule but including files.
 
