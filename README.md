@@ -10,6 +10,14 @@ This is notification template for used list of open source libraries and compone
 4. Click button `Create.html` to make static page.
 5. Include static page to your service.
 
+## Included Javascript libraries
+
+| Name | URL | License | Copyright |
+|---|---|---|---|
+| jQuery | <http://github.com/jquery/jquery> | MIT License | (c) 2005, 2014 jQuery Foundation, Inc. |
+| PapaParse | <http://github.com/mholt/PapaParse> | MIT License | (c) 2015 Matthew Holt |
+| mmd.js | <http://github.com/p01/mmd.js> | [No License](https://help.github.com/articles/open-source-licensing/#what-happens-if-i-dont-choose-a-license) | |
+
 ## SPDX license-list
 
 `license` folder include many license list from [SPDX license-lise](http://git.spdx.org/license-list.git). 
