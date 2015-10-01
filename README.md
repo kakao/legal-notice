@@ -4,7 +4,7 @@ This is notification template for used list of open source libraries and compone
 
 ## How to Using
 
-1. Copy folder `/ServiceName-PlatformName/` and rename it. 
+1. Copy folder `/ServiceName-PlatformName/` and rename it.
 2. Update `data.csv`.
 3. Check & share page <http://daumkakao.github.io/legal-notice/ServiceName-PlatformName/>.
 4. Click button `Create.html` to make static page.
@@ -20,7 +20,7 @@ This is notification template for used list of open source libraries and compone
 
 ## SPDX license-list
 
-`license` folder include many license list from [SPDX license-list](http://git.spdx.org/license-list.git). 
+`license` folder include many license list from [SPDX license-list](http://git.spdx.org/license-list.git).
 This submodule cause github page build error. because they don't support `https` protocol.
 So this template has not using git submodule but including files.
 
@@ -28,9 +28,9 @@ So this template has not using git submodule but including files.
 
 This software is licensed under the Apache 2 license, quoted below.
 
-Copyright 2015 Daum Kakao Corp. <http://www.daumkakao.com>
+Copyright 2015 Kakao Corp. <http://www.kakaocorp.com>
 
-Licensed under the Apache License, Version 2.0 (the "License"); you may not use this project except in compliance with the License. 
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this project except in compliance with the License.
 You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0.
 
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
